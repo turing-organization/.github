@@ -1,7 +1,4 @@
-# **Turing DevSecOps Technology**
-![image](https://github.com/user-attachments/assets/f3ef9e82-8f54-46d8-9c03-534e43f87547)
-
-[Turing Tec](https://turingtec.framer.website/)
+# [**Turing DevSecOps Technology**](https://turingtec.framer.website/)
 
 ![image](https://github.com/user-attachments/assets/b179a298-6cda-468b-87a9-747155d2fa4e)
 
