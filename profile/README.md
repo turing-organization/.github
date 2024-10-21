@@ -67,8 +67,7 @@ Next:
 - Veracode
 - Owasp Zap
 
-![image](https://github.com/user-attachments/assets/47340ce8-1af9-4f23-a4c7-c1f3f942589a)
-
+![image](https://github.com/user-attachments/assets/c8c0d218-e06a-40dc-ae85-f6784e87b435)
 
 ### **Monitoring and Management**
 
