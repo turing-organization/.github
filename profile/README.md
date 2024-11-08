@@ -1,6 +1,7 @@
 # [**Turing DevSecOps Technology**](https://turingtec.framer.website/)
 
-![image](https://github.com/user-attachments/assets/b179a298-6cda-468b-87a9-747155d2fa4e)
+![image](https://github.com/user-attachments/assets/d1cb298a-6489-4594-a8c3-c131bc275637)
+
 
 Turing is a suite of innovative services that collects and distributes end-to-end vulnerability analysis and cybersecurity risk information. The project offers advanced functionality, robust security, and is easy to use, facilitating end-to-end vulnerability management, from collection to patch tracking.
 
