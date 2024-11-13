@@ -2,9 +2,10 @@
 
 ![image](https://github.com/user-attachments/assets/f6094881-7764-421f-9dad-8d356c6ce1d8)
 
-Turing is a suite of innovative services that collects and distributes end-to-end vulnerability analysis and cybersecurity risk information. The project offers advanced functionality, robust security, and is easy to use, facilitating end-to-end vulnerability management, from collection to patch tracking.
+Turing is a suite of innovative services that collects and distributes vulnerability and cyber risk analyses across the entire enterprise ecosystem.
+The difference lies in the complete automation of the vulnerability management and compliance cycle, integrating multiple security platforms (such as Prisma, Sonar, Fortify, SecurityScoreCard), task management tools (such as Jira, Zendesk, ServiceNow) using AI to rank, predict potential attacks and offer automated solutions.
 
-Turing helps organizations streamline processes, improve team collaboration, and achieve greater operational efficiency. By replacing CSV exports and automating the secure development cycle, Turing becomes an essential component in strengthening information security.
+Our solution transforms security reports into automated actions, generating tickets, tasks and workflows, in addition to unifying and standardizing data to facilitate the creation of real-time dashboards. This allows companies to have a centralized and more agile view, significantly reducing response time and manual efforts of their security teams.
 
 ## **Market Opportunity**
 
@@ -25,6 +26,8 @@ Turing offers the following benefits to its customers:
 
 Users can configure distributions between different vulnerability management systems and discovery tools by specifying connection parameters, data synchronization rules, and where they want the collected data to be made available. 
 
+![image](https://github.com/user-attachments/assets/958300b6-3527-4802-8877-fa69f37352a9)
+
 - Cloud Security
     - CSPM
         - Palo Alto Prisma
@@ -38,9 +41,6 @@ Users can configure distributions between different vulnerability management sys
         - Semgrep
     - DAST
         - Nessus
-    - SCA
-        - Dependaboot
-        - Snyk
 - Patch Management
     - Vicarius
 - Management
@@ -49,7 +49,8 @@ Users can configure distributions between different vulnerability management sys
     - Webhooks
     - PowerBI
     - DefectDojo
-    - Native Dashboa
+    - Native Dashboard
+    - Movidesk
 
 Next:
 - Slack
@@ -57,7 +58,6 @@ Next:
 - Zendesk
 - Datadog
 - Grafana
-- Vicarius
 - Fortify
 - Dependaboot
 - Snyk
@@ -66,8 +66,6 @@ Next:
 - Terrascan
 - Veracode
 - Owasp Zap
-
-![image](https://github.com/user-attachments/assets/c8c0d218-e06a-40dc-ae85-f6784e87b435)
 
 ### **Monitoring and Management**
 
