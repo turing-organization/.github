@@ -1,7 +1,6 @@
 # [**Turing DevSecOps Technology**](https://turingtec.framer.website/)
 
-![image](https://github.com/user-attachments/assets/177ee2c5-c298-430d-a6c3-e6113cc53df6)
-
+![image](https://github.com/user-attachments/assets/c1499112-d17d-48bb-ba0c-49d7c06e20a9)
 
 Turing is a suite of innovative services that collects and distributes vulnerability and cyber risk analyses across the entire enterprise ecosystem.
 The difference lies in the complete automation of the vulnerability management and compliance cycle, integrating multiple security platforms (such as Prisma, Sonar, Fortify, SecurityScoreCard), task management tools (such as Jira, Zendesk, ServiceNow) using AI to rank, predict potential attacks and offer automated solutions.
