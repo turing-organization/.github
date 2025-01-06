@@ -1,4 +1,4 @@
-# [**Turing DevSecOps Technology**](https://turingtec.framer.website/)
+# [**Turing DevSecOps Technology**](https://turingdevsec.com/)
 
 ![image](https://github.com/user-attachments/assets/c1499112-d17d-48bb-ba0c-49d7c06e20a9)
 
